@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... videos game
 - 🌱 I’m currently learning ... rust & general low level programming
 - 💞️ I’m looking to collaborate on ... nothing rn
-- 📫 How to reach me ...
+- 📫 How to reach me ... don't
